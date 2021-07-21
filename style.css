@@ -81,4 +81,8 @@ h2 {
 }
 
 /* ------------- pod čáru přijdou tvé styly ------------- */
-
+@media only screen and (max-width: 767px) {
+	.cervena {
+		display: none;
+	}
+}
